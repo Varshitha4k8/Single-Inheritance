@@ -1,0 +1,1 @@
+Single inheritance in Java is a core object-oriented programming (OOP) concept where a subclass inherits properties and behaviors from a single superclass. This creates a simple parent-child or "is-a" relationship, such as a Dog "is a" Animal. 
